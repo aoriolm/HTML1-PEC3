@@ -10,8 +10,6 @@ html {
     margin: auto;
 }
 
-
-
 .centro{
     font-size: 4rem;
     font-weight: 700;
@@ -25,7 +23,7 @@ html {
 }
 
 .logotipo.is-active {
-    background-color: rgb(30, 185, 212);
+    background-color: goldenrod;
   }
 
 .div-nav {
